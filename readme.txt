@@ -1,1 +1,9 @@
-1 - Day One Python 
+1 - Day One Python
+    Git status 
+    git add (shift+insert) 
+    git commit -m "your commit info"
+    git push --------
+
+
+
+ 
