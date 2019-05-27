@@ -1,0 +1,10 @@
+Strings:
+String literals in python are surrounded by either single quotation marks, or double quotation marks.
+Strings can be a word long or a sentence or paragraph.
+Strings can be output to screen using the print function. For example: print("hello").
+We can also combine strings just like :
+"This is a car" + "This is a bike".
+You can see that we combine strings by Plus sign.So streams aren't that useful without the use of something called variable's.	
+Strings can be multiplied just if we typing it out and multiply by any number for example:
+"Strings" * 2 
+"StringsStrings"
