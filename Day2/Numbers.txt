@@ -6,3 +6,9 @@ Number objects are created when you assign a value to them. For example :
 var1 = 1
 var2 = 10
 Numbers can be inside of a string but they can also be on their own.
+If we multiply the Number and it give me a answer straight For example:
+>>> 2 * 2
+>>> 4
+>>> 2 * 10 
+>>> 20
+
