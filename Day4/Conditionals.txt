@@ -1,0 +1,8 @@
+Conditionals:
+Conditional tehmselver very help us to control the very flow of the program.That is if one thing happen the program do that thing.
+and other thing happen the program do other thing.This is like a switch there can be only on or off no other thing just true or false.
+Now for Python itself we're really using conditionals as boolean values.
+That is true or false so true or false one or the other.
+And we're going to be able to design our programs in such a way.
+Now order for us to understand how to use a conditional we actually have to understand how to develop
+some sort of boolean value from data.
