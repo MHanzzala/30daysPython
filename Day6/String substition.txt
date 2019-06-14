@@ -1,0 +1,4 @@
+String Substuition:
+It is doubtful the subtraction operator is defined for strings (what it means to subtract a string is ambiguous, 
+you could want it to do any number of things). You'll actually have to write code to make it do what you want, 
+which is to replace that substring if it's present and perhaps some spaces as well.
